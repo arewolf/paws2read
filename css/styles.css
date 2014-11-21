@@ -1,6 +1,7 @@
 * {
 	margin: 0 auto;
 	box-sizing: border-box;
+
 }
 /*========= HEADER ===========*/
 header {
@@ -45,37 +46,59 @@ nav a:hover {
 	height: 650px;
 }
 
-.hero {
-	/*background-color: #0797D6;*/
-	background-image: url("/images/golden_reading.jpg");
-	background-size: contain;
+.wordbox {
+	height: 650px;
+	width:50%;
+}
+
+.hero.panel {
+	background: linear-gradient(rgba(7,151,214,0.7), rgba(7,151,214,0.3)), url("/golden_reading.jpg");
+	background-size:cover;
 	background-repeat: no-repeat;
 }
 
 .about {
-	background-color:#D50730;
+	background-image: url("/dog_reading.jpg");
+	background-size:cover;
+	background-repeat: no-repeat;
+}
+
+.about .wordbox {
+	background-color: rgba(213,7,48,0.7);
 }
 
 .involved {
-	background-color:#F86120;
+	background-image: url("/jack_reading.jpg");
+	background-size:cover;
+	background-repeat: no-repeat;
 }
 
-.map {
+.involved .wordbox {
+	background-color:rgba(248,97,32,0.7);
+}
+
+/*.map {
+	background-image: url("/map.png");
+	background-size:cover;
+	background-repeat: no-repeat;
+}
+
+.map .wordbox {
 	background-color:#07D5AB;
+	background: linear-gradient(rgba(7,213,171,0.8), rgba(7,213,171,0.3));
 
-}
+}*/
 
 .schedule {
-	background-color:#AB07D5;
-
+	background-image: url("/map.png");
+	background-size:cover;
+	background-repeat: no-repeat;
 }
 
-.wordbox {
-	background-color:white;
-	height: 650px;
-	width:50%;
-	opacity:.6;
+.schedule .wordbox {
+	background: rgba(7,213,171,0.8);
 }
+
 
 .panel:nth-child(even) .wordbox {
 	float:left;
@@ -92,11 +115,15 @@ nav a:hover {
 
 .mission {
 	min-height: 100px;
-	background-color:blue;
 }
 
+/*.hero h1 {
+	font-family: 'Passion One', cursive;
+	font-size: 80pt;
+}*/
+
 .hero a {
- 
+	
 }
 
 .hero a .donate {
@@ -110,9 +137,10 @@ nav a:hover {
 
 footer {
 	background-color:lightgray;
-	min-height:30px;
+	min-height:50px;
 	text-align: center;
 	padding:5px;
+	font-style: bold;
 }
 
 
