@@ -80,12 +80,14 @@ nav a:hover {
 .hero.panel {
 	background: linear-gradient(rgba(7,151,214,0.8), rgba(7,151,214,0.3)), url("/images/golden_reading.jpg");
 	background-size:cover;
+	height: 100vh;
 	background-repeat: no-repeat;
 }
 
 .about {
 	background-image: url("/images/dog_reading.jpg");
 	background-size:cover;
+	height: 100vh;
 	background-repeat: no-repeat;
 }
 
@@ -93,11 +95,13 @@ nav a:hover {
 	background-color: rgba(213,7,48,0.7);
 	padding-top:140px;
 	padding-left: 40px;
+	height: 100vh;
 }
 
 .involved {
 	background-image: url("/images/jack_reading.jpg");
 	background-size:cover;
+	height: 100vh;
 	background-repeat: no-repeat;
 }
 
@@ -105,6 +109,7 @@ nav a:hover {
 	background-color:rgba(248,97,32,0.7);
 	padding-top:120px;
 	padding-left: 40px;
+	height: 100vh;
 }
 
 .schedule {
@@ -116,6 +121,7 @@ nav a:hover {
 
 .schedule .wordbox {
 	background: rgba(26,147,122,0.8);
+	
 }
 
 
