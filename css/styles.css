@@ -1,6 +1,7 @@
 * {
 	margin: 0 auto;
 	box-sizing: border-box;
+
 }
 /*========= HEADER ===========*/
 header {
@@ -51,7 +52,6 @@ nav a:hover {
 }
 
 .hero.panel {
-	/*background-color: #0797D6;*/
 	background: linear-gradient(rgba(7,151,214,0.7), rgba(7,151,214,0.3)), url("/golden_reading.jpg");
 	background-size:cover;
 	background-repeat: no-repeat;
@@ -64,9 +64,7 @@ nav a:hover {
 }
 
 .about .wordbox {
-	/*background-color:#D50730;*/
 	background-color: rgba(213,7,48,0.7);
-	/*background: linear-gradient(rgba(213,7,48,0.7), rgba(213,7,48,0.3));*/
 }
 
 .involved {
@@ -76,32 +74,29 @@ nav a:hover {
 }
 
 .involved .wordbox {
-	/*background-color:#F86120;*/
 	background-color:rgba(248,97,32,0.7);
-/*	background: linear-gradient(rgba(248,97,32,0.7), rgba(248,97,32,0.3));
-*/}
+}
 
-.map {
-	background-image: url("/golden_reading.jpg");
+/*.map {
+	background-image: url("/map.png");
 	background-size:cover;
 	background-repeat: no-repeat;
 }
 
 .map .wordbox {
 	background-color:#07D5AB;
-	background: linear-gradient(rgba(7,213,171,0.7), rgba(7,213,171,0.3));
+	background: linear-gradient(rgba(7,213,171,0.8), rgba(7,213,171,0.3));
 
-}
+}*/
 
 .schedule {
-	background-image: url("/dog_reading.jpg");
+	background-image: url("/map.png");
 	background-size:cover;
 	background-repeat: no-repeat;
 }
 
 .schedule .wordbox {
-	background-color:#AB07D5;
-	background: linear-gradient(rgba(7,151,214,0.7), rgba(7,151,214,0.3));
+	background: rgba(7,213,171,0.8);
 }
 
 
@@ -122,6 +117,11 @@ nav a:hover {
 	min-height: 100px;
 }
 
+/*.hero h1 {
+	font-family: 'Passion One', cursive;
+	font-size: 80pt;
+}*/
+
 .hero a {
 	
 }
@@ -137,7 +137,7 @@ nav a:hover {
 
 footer {
 	background-color:lightgray;
-	min-height:30px;
+	min-height:50px;
 	text-align: center;
 	padding:5px;
 	font-style: bold;

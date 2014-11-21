@@ -3,6 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<link rel="stylesheet" href="/css/styles.css">
+	<link href='http://fonts.googleapis.com/css?family=Passion+One|Roboto:400,700' rel='stylesheet' type='text/css'>
 	<title>Paws2Read</title>
 </head>
 <body>
@@ -38,10 +39,10 @@
 		</div>
 	</div>
 
-	<div class="map panel" id="map">
+	<!-- <div class="map panel" id="map">
 		<div class="wordbox">
 		</div>
-	</div>
+	</div> -->
 
 	<div class="schedule panel" id="schedule">
 		<div class="wordbox">
