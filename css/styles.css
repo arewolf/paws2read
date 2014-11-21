@@ -1,0 +1,45 @@
+* {
+	margin: 0 auto;
+	box-sizing: border-box;
+}
+
+header {
+	width:100%;
+	height: 50px;
+	background-color:orange;
+	position: fixed;
+}
+
+
+.panel {
+	width:100%;
+	height: 650px;
+}
+
+.hero {
+	background-color: red;
+}
+
+.about{
+	background-color:blue;
+}
+
+.donate{
+	background-color:yellow;
+}
+
+.map {
+	background-color:pink;
+
+}
+
+.wordbox {
+	background-color:orange;
+}
+
+footer {
+	background-color:brown;
+	height:100px;
+}
+
+
