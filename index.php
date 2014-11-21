@@ -41,7 +41,7 @@
 		</div>
 	</div>
 	<footer>
-		<p>Copyright 2013</p>
+		<p>Copyright © 2013 Paws2Read.org</p>
 	</footer>
 
 
