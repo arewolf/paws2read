@@ -3,6 +3,10 @@
 <head>
 	<meta charset="UTF-8">
 	<link rel="stylesheet" href="/css/styles.css">
+
+	<link href='http://fonts.googleapis.com/css?family=Passion+One|Roboto:400,700' rel='stylesheet' type='text/css'>
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
 	<title>Paws2Read</title>
 </head>
 <body>
@@ -25,7 +29,9 @@
 				<h3>Paws 2 Read is a reading program where children read to pet therapy animals and benefit from a non-threatening, fun environment to practice their reading skills, increase their self-esteem, gain a love of reading, and learn about the human-animal connection.</h3>
 				<div><a href="mailto:Paws2Read@Paws2Read.org" class="contact link">Contact</a></div>
 			</div>
+
 		</div>
+
 	</div>
 
 	<div class="about panel" id="about">
