@@ -7,7 +7,16 @@
 </head>
 <body>
 	<header>
-	</header>	
+			<img src="http://www.paws2read.org/img/logo.png">
+		<nav>
+			<li><a href="">Home</a></li>
+			<li><a href="">About</a></li>
+			<li><a href="">Get Involved</a></li>
+			<li><a href="">Map</a></li>
+			<li><a href="">Schedule</a></li>
+		</nav>
+	</header>
+
 	<div class="hero panel">
 		<h1>Paws2Read</h1>
 	</div>
@@ -17,7 +26,7 @@
 		</div>
 	</div>
 
-	<div class="donate panel">
+	<div class="involved panel">
 		<div class="wordbox">
 		</div>
 	</div>
@@ -26,7 +35,13 @@
 		<div class="wordbox">
 		</div>
 	</div>
+
+	<div class="schedule panel">
+		<div class="wordbox">
+		</div>
+	</div>
 	<footer>
+		<p>Copyright © 2013 Paws2Read.org</p>
 	</footer>
 
 
