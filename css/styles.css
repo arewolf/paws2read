@@ -7,11 +7,15 @@ header {
 	width:100%;
 	height: 150px;
 	background-color:lightgray;
-	position: fixed;
+	position: relative;
+}
+
+nav img {
+	float:left;
 }
 
 nav {
-    width: 800px;
+    width: 600px;
     height: 35px;
     font-size: 25px;
     font-family: Arial, sans-serif;
@@ -19,20 +23,9 @@ nav {
     text-align: center;
     text-shadow: 3px 2px 3px #333333;
     background-color: #afd2f0;
-    border-radius: 8px;
     position: absolute;
     right:0;
-}
-
-nav ul {
-    height: auto;
-    padding: 8px 0px;
-    margin: 0px;
-}
-
-nav li { 
-	display: inline; 
-	padding: 20px; 
+    bottom: 0;
 }
 
 nav a {
@@ -43,7 +36,6 @@ nav a {
 
 nav a:hover {
     color: #0797D6;
-    background-color: #FFF;
 }
 
 /*========== PANELS ============*/
@@ -54,7 +46,10 @@ nav a:hover {
 }
 
 .hero {
-	background-color: #0797D6;
+	/*background-color: #0797D6;*/
+	background-image: url("/images/golden_reading.jpg");
+	background-size: contain;
+	background-repeat: no-repeat;
 }
 
 .about {
@@ -89,7 +84,28 @@ nav a:hover {
 .panel:nth-child(odd) .wordbox {
 	float:right;
 }
+/*======== HERO =========*/
 
+.hero {
+	text-align: center;
+}
+
+.mission {
+	min-height: 100px;
+	background-color:blue;
+}
+
+.hero a {
+ 
+}
+
+.hero a .donate {
+
+}
+
+.hero a .contact {
+
+}
 /*======== FOOTER =========*/
 
 footer {
