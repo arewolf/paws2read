@@ -35,6 +35,17 @@ header {
 
 .wordbox {
 	background-color:orange;
+	height: 650px;
+	width:50%;
+	opacity:.6;
+}
+
+.panel:nth-child(even) .wordbox {
+	float:left;
+}
+
+.panel:nth-child(odd) .wordbox {
+	float:right;
 }
 
 footer {
