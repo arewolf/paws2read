@@ -3,8 +3,10 @@
 <head>
 	<meta charset="UTF-8">
 	<link rel="stylesheet" href="/css/styles.css">
+
 	<link href='http://fonts.googleapis.com/css?family=Passion+One|Roboto:400,700' rel='stylesheet' type='text/css'>
 	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
 	<title>Paws2Read</title>
 </head>
 <body>
@@ -28,11 +30,12 @@
 				<div><a href="mailto:Paws2Read@Paws2Read.org" class="contact link">Contact</a></div>
 			</div>
 		</div>
+
 	</div>
 
 	<div class="about panel" id="about">
 		<div class="wordbox">
-			
+
 		<h2>About Us</h2>
 
 		<h3>Certifications</h3>
@@ -77,7 +80,9 @@
 						<li>Sponsor a Team for a Year</li>
 					</ul>
 			</ul>
-</div>
+		</div>
+	</div>
+
 
 	<div class="schedule panel" id="schedule">
 		<div class="wordbox">
