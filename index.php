@@ -18,13 +18,13 @@
 	</header>
 
 	<div class="hero panel" id="hero">
-		<div class="hero">
+		<div>
 			<h1>Paws2Read</h1>
-			<div class="mission">
+			<!-- <div class="mission">
 				<div><a href="#involved" class="donate link">Donate</a></div>
-				<h2>Mission Statement</h2>
+				<h3>Paws 2 Read is a reading program where children read to pet therapy animals and benefit from a non-threatening, fun environment to practice their reading skills, increase their self-esteem, gain a love of reading, and learn about the human-animal connection.</h3>
 				<div><a href="mailto:Paws2Read@Paws2Read.org" class="contact link">Contact</a></div>
-			</div>
+			</div> -->
 		</div>
 	</div>
 
@@ -50,7 +50,6 @@
 	<footer>
 		<p>Copyright © 2013 Paws2Read.org</p>
 	</footer>
-
 
 </body>
 </html>
