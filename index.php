@@ -17,13 +17,12 @@
 	<title>Paws2Read</title>
 </head>
 <body>
-	
 
 	<div class="hero panel" id="hero">
 	<header>
-			<div class="logo">
-				<img src="http://www.paws2read.org/img/logo.png">
-			<div>
+		<div class="logo">
+			<img src="http://www.paws2read.org/img/logo.png">
+		<div>
 		<nav>
 			<a href="#hero">Home</a>
 			<a href="#about">About</a>
@@ -39,9 +38,7 @@
 			<h1>Come, Sit, and Read!</h1>
 			
 		</div>
-
 	</div>
-
 	<div class="about panel" id="about">
 		<div class="wordbox">
 
@@ -62,7 +59,6 @@
 				<li> Research shows that there is a 30% increase in reading fluency over a course of 10 weeks Washington University School of Medicine (Smith and Meehan). </li>
 				<li> On a national test of 4th grade reading proficiency Arizona ranked 46 out of the 50 states.</li>
 			</ul>
-		</div>
 		</div>
 	</div>
 
@@ -92,67 +88,65 @@
 		</div>
 	</div>
 
-
 	<div class="schedule panel" id="schedule">
 		<div class="wordbox1 oversized">
 			<h1>SCHEDULE:</h1>
 			<br>
 			<h3>Every Thursday</h3>
+			<ul>
+				<li> Phoenix Mesquite Library</li>
 					<ul>
-						<li> Phoenix Mesquite Library</li>
-							<ul>
-								<li> 3:30pm to 4:30pm</li>
-								<li> 4525 E Paradise Village Pkwy N Phoenix AZ 85032</li>
-								<li> (602) 262-4636</li>
-								<li> <a href="https://www.google.com/maps/place/4525+E+Paradise+Village+Pkwy+N,+Phoenix,+AZ+85032/@33.6044908,-111.98076,15z/data=!4m2!3m1!1s0x872b73b960e580df:0x8c15b5a34d4d7e15" title="">Get Directions</a></li>
-							</ul>
+						<li> 3:30pm to 4:30pm</li>
+						<li> 4525 E Paradise Village Pkwy N Phoenix AZ 85032</li>
+						<li> (602) 262-4636</li>
+						<li> <a href="https://www.google.com/maps/place/4525+E+Paradise+Village+Pkwy+N,+Phoenix,+AZ+85032/@33.6044908,-111.98076,15z/data=!4m2!3m1!1s0x872b73b960e580df:0x8c15b5a34d4d7e15" title="">Get Directions</a></li>
 					</ul>
+			</ul>
 
 			<h3>1st Saturday of the Month</h3>
 
+			<ul>
+				<li> Mesa Main</li>
 					<ul>
-						<li> Mesa Main</li>
-							<ul>
-								<li> 10:30am to 12 noon</li>
-								<li> 64 E 1st St Mesa AZ 85201</li>  
-								<li> (480) 644-3100</li>
-								<li> <a href="https://www.google.com/maps/place/64+E+1st+St,+Mesa,+AZ+85201/@33.4179877,-111.8288694,16z/data=!4m2!3m1!1s0x872ba7c3b68e4aa7:0x710079f8f8fa024" title="">Get Directions</a></li>
-							</ul><br>
+						<li> 10:30am to 12 noon</li>
+						<li> 64 E 1st St Mesa AZ 85201</li>  
+						<li> (480) 644-3100</li>
+						<li> <a href="https://www.google.com/maps/place/64+E+1st+St,+Mesa,+AZ+85201/@33.4179877,-111.8288694,16z/data=!4m2!3m1!1s0x872ba7c3b68e4aa7:0x710079f8f8fa024" title="">Get Directions</a></li>
+					</ul><br>
 
-						<li> Mesa Red Mountain</li>
-							<ul>
-								<li> Macaw Special Session: 11:30am to 1pm</li>
-						 		<li> Regular Hours: 2:00pm to 3:30pm</li>
-						  		<li> 635 N Power Rd Mesa AZ 85205</li>
-						  		<li> (480) 644-3100</li>
-						  		<li> <a href="https://www.google.com/maps/place/635+N+Power+Rd,+Mesa,+AZ+85205/@33.426686,-111.6835281,15z/data=!4m2!3m1!1s0x872baff680a69ab7:0x9c9c74acf7f9e641" title="">Get Directions</a></li>
-							</ul><br>		
-
-						<li> Fountain Hills</li>
-						<ul>
-						 	<li> 10:30 am to 12 noon</li>
-						 	<li> 12901 N La Montana Dr Fountain Hills AZ 85268</li>
-						 	<li> (602) 652-3000</li>
-						 	<li> <a href="https://www.google.com/maps/place/12901+N+La+Montana+Dr,+Fountain+Hills,+AZ+85268/@33.5961018,-111.7166474,14z/data=!4m2!3m1!1s0x872b988f619d3ef7:0x38fe30d8a37300bd" title="">Get Directions</a></li>
-						 </ul>
-					</ul>
-				<br>
-				<h3>2nd Saturday of the Month</h3>
-
+				<li> Mesa Red Mountain</li>
 					<ul>
-						<li> Gilbert South East Regional</li>
-							<ul>
-								<li> 10:30am to 12 noon</li>
-								<li> 775 N Greenfield Rd Gilbert AZ 85234</li>
-								<li> (602) 652-3000</li>
-								<li> <a href="https://www.google.com/maps/place/775+N+Greenfield+Rd,+Gilbert,+AZ+85234/@33.362639,-111.7347744,15z/data=!4m2!3m1!1s0x872baec279960ec3:0xb0f51b0e9b07aba7" title="">Get Directions</a></li>
-							</ul>		
-					</ul></div>
-		<!-- <div class="wordbox"> -->
-			
+						<li> Macaw Special Session: 11:30am to 1pm</li>
+				 		<li> Regular Hours: 2:00pm to 3:30pm</li>
+				  		<li> 635 N Power Rd Mesa AZ 85205</li>
+				  		<li> (480) 644-3100</li>
+				  		<li> <a href="https://www.google.com/maps/place/635+N+Power+Rd,+Mesa,+AZ+85205/@33.426686,-111.6835281,15z/data=!4m2!3m1!1s0x872baff680a69ab7:0x9c9c74acf7f9e641" title="">Get Directions</a></li>
+					</ul><br>		
+
+				<li> Fountain Hills</li>
+				<ul>
+				 	<li> 10:30 am to 12 noon</li>
+				 	<li> 12901 N La Montana Dr Fountain Hills AZ 85268</li>
+				 	<li> (602) 652-3000</li>
+				 	<li> <a href="https://www.google.com/maps/place/12901+N+La+Montana+Dr,+Fountain+Hills,+AZ+85268/@33.5961018,-111.7166474,14z/data=!4m2!3m1!1s0x872b988f619d3ef7:0x38fe30d8a37300bd" title="">Get Directions</a></li>
+				</ul>
+			</ul>
+			<br>
+			<h3>2nd Saturday of the Month</h3>
+
+			<ul>
+				<li> Gilbert South East Regional</li>
+					<ul>
+						<li> 10:30am to 12 noon</li>
+						<li> 775 N Greenfield Rd Gilbert AZ 85234</li>
+						<li> (602) 652-3000</li>
+						<li> <a href="https://www.google.com/maps/place/775+N+Greenfield+Rd,+Gilbert,+AZ+85234/@33.362639,-111.7347744,15z/data=!4m2!3m1!1s0x872baec279960ec3:0xb0f51b0e9b07aba7" title="">Get Directions</a></li>
+					</ul>		
+			</ul>
+		</div>			
 				
 				<div class="wordbox oversized"> 
-				<h3>3rd Saturday of the Month</h3>
+					<h3>3rd Saturday of the Month</h3>
 
 					<ul>
 						<li> Apache Junction</li>
@@ -188,7 +182,7 @@
 							</ul>
 					</ul>
 
-				<h3>4th Saturday of the Month</h3>
+					<h3>4th Saturday of the Month</h3>
 
 					<ul>
 						<li> Queen Creek</li>
@@ -209,8 +203,6 @@
 					</ul>
 					</div>
 				
-		</div>
-	</div>
 	<footer>
 		<p>Copyright © 2014 Paws2Read.org</p>
 	</footer>

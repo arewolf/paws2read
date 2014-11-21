@@ -4,7 +4,6 @@
 	color: white;
 	font-family: 'Roboto';
 	text-shadow:2px 2px black;
-
 }
 
 h1 {
@@ -54,9 +53,11 @@ nav a {
     padding: 8px 8px 8px 8px;
 }
 
-nav a:hover {
-    color: #0797D6;
-}
+nav a:nth-child(1):hover { color:rgba(207, 240, 255, 0.8); }
+nav a:nth-child(2):hover { color:rgba(228, 153, 153, 0.7); }
+nav a:nth-child(3):hover { color:rgba(248,97,32,0.7); }
+nav a:nth-child(4):hover { color:rgba(26,147,122,0.8); }
+nav a:nth-child(5):hover { color:rgba(213,7,48,0.7); }
 
 /*========== PANELS ============*/
 
@@ -77,6 +78,7 @@ nav a:hover {
 	width:50%;
 	float:left;
 }
+
 .hero.panel {
 	background: linear-gradient(rgba(7,151,214,0.8), rgba(7,151,214,0.3)), url("/images/golden_reading.jpg");
 	background-size:cover;
@@ -124,7 +126,6 @@ nav a:hover {
 	
 }
 
-
 .panel:nth-child(even) .wordbox {
 	float:left;
 }
@@ -132,6 +133,7 @@ nav a:hover {
 .panel:nth-child(odd) .wordbox {
 	float:right;
 }
+
 /*======== HERO =========*/
 
 .hero {
@@ -149,7 +151,6 @@ nav a:hover {
 	position: absolute;
 	bottom:20px;
 	width:60%;
-
 }
 
 .oversized {
@@ -174,7 +175,7 @@ li:before {
 /*======== FOOTER =========*/
 
 footer {
-	background-color:white;
+	background-color:transparent;
 	color:#0797D6;
 	min-height:40px;
 	text-align: center;
