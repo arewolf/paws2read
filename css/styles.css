@@ -133,6 +133,18 @@ nav a:hover {
 .hero a .contact {
 
 }
+
+/*======== SCHEDULE =========*/
+
+li {
+	list-style: none;
+}
+
+li:before {
+	font-family: 'FontAwesome';
+	content: "\f1b0";
+}
+
 /*======== FOOTER =========*/
 
 footer {
