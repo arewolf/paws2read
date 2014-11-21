@@ -52,13 +52,13 @@ nav a:hover {
 }
 
 .hero.panel {
-	background: linear-gradient(rgba(7,151,214,0.7), rgba(7,151,214,0.3)), url("/golden_reading.jpg");
+	background: linear-gradient(rgba(7,151,214,0.7), rgba(7,151,214,0.3)), url("/images/golden_reading.jpg");
 	background-size:cover;
 	background-repeat: no-repeat;
 }
 
 .about {
-	background-image: url("/dog_reading.jpg");
+	background-image: url("/images/dog_reading.jpg");
 	background-size:cover;
 	background-repeat: no-repeat;
 }
@@ -68,7 +68,7 @@ nav a:hover {
 }
 
 .involved {
-	background-image: url("/jack_reading.jpg");
+	background-image: url("/images/jack_reading.jpg");
 	background-size:cover;
 	background-repeat: no-repeat;
 }
@@ -77,20 +77,8 @@ nav a:hover {
 	background-color:rgba(248,97,32,0.7);
 }
 
-/*.map {
-	background-image: url("/map.png");
-	background-size:cover;
-	background-repeat: no-repeat;
-}
-
-.map .wordbox {
-	background-color:#07D5AB;
-	background: linear-gradient(rgba(7,213,171,0.8), rgba(7,213,171,0.3));
-
-}*/
-
 .schedule {
-	background-image: url("/map.png");
+	background-image: url("/images/map.png");
 	background-size:cover;
 	background-repeat: no-repeat;
 }

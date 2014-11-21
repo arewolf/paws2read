@@ -27,6 +27,7 @@
 				<h3>Paws 2 Read is a reading program where children read to pet therapy animals and benefit from a non-threatening, fun environment to practice their reading skills, increase their self-esteem, gain a love of reading, and learn about the human-animal connection.</h3>
 				<div><a href="mailto:Paws2Read@Paws2Read.org" class="contact link">Contact</a></div>
 			</div>
+		</div>
 	</div>
 
 	<div class="about panel" id="about">
@@ -49,7 +50,7 @@
 				<li>Research shows that there is a 30% increase in reading fluency over a course of 10 weeks Washington University School of Medicine (Smith and Meehan). </li>
 				<li>On a national test of 4th grade reading proficiency Arizona ranked 46 out of the 50 states.</li>
 			</ul>
-
+		</div>
 		</div>
 	</div>
 
@@ -76,7 +77,7 @@
 						<li>Sponsor a Team for a Year</li>
 					</ul>
 			</ul>
-
+</div>
 
 	<div class="schedule panel" id="schedule">
 		<div class="wordbox">
